@@ -22,7 +22,7 @@ class Translation(object):
 ഈ ഞാനോ...🙄
 
 ഒന്നു പോയെടാ... 😬"""
-    REPLY_TO_DOC_FOR_RENAME_FILE = "Reply to a Telegram media to `/rename New Name.extension` with custom thumbnail support.."
+    REPLY_TO_DOC_FOR_RENAME_FILE = "അറിയാവുന്ന വല്ല പണിയും ചെയ്താൽ പോരെ... 🥱.."
     ABUSIVE_USERS = "You are not allowed to use this bot. If you think this is a mistake, please check /me to remove this restriction."
     FREE_USER_LIMIT_Q_SZE = """Cannot Process.
 Free users only 1 request per 30 minutes.
@@ -30,6 +30,4 @@ Free users only 1 request per 30 minutes.
     IFLONG_FILE_NAME = """File Name limit allowed by Telegram is {alimit} characters.
 The given file name has {num} characters.
 
-<b>Essays Not allowed in Telegram file name!</b>
-©️ <code>@ReNameBot</code>
-Please short your file name and try again!"""
+"""
